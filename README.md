@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mikhongelo
+- 👋 Hi, I’m @Ntsako
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning SQL, Python and R
 - 💞️ I’m looking to collaborate on SQL, Python, R, PowerBI & Excel online group classes
